@@ -23,13 +23,13 @@
 
 ---
 
-## 🧑‍🎨 About Me
+##  About Me
 
 ```yaml
 name: Ayman Akhsassi
-location: Morocco 🇲🇦
+location: Morocco
 role: Graphic Designer & Digital Creative
-currently: Studying Digital Development
+currently: Studying Marketing degital Digital Development
 focus: Branding · Packaging · Motion Design · Social Media
 ```
 
@@ -63,7 +63,7 @@ focus: Branding · Packaging · Motion Design · Social Media
 
 ---
 
-## 🏆 Featured Project
+##  Featured Project
 
 <a href="https://github.com/ayman-26-dev/cv-en-ligne-ayman">
   <picture>
@@ -73,11 +73,11 @@ focus: Branding · Packaging · Motion Design · Social Media
   </picture>
 </a>
 
-> 🎨 **Personal Portfolio CV** — A modern, responsive single-page website with a dark theme, glassmorphism effects, 3D project carousel, and smooth scroll animations. Built with Bootstrap 5 & custom CSS.
+>  **Personal Portfolio CV** — A modern, responsive single-page website with a dark theme, glassmorphism effects, 3D project carousel, and smooth scroll animations. Built with Bootstrap 5 & custom CSS.
 
 ---
 
-## 📊 GitHub Stats
+##  GitHub Stats
 
 <p align="center">
   <picture>
@@ -85,11 +85,7 @@ focus: Branding · Packaging · Motion Design · Social Media
     <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api?username=ayman-26-dev&show_icons=true&hide_border=true&title_color=00c896&icon_color=00c896" />
     <img width="49%" src="https://github-readme-stats.vercel.app/api?username=ayman-26-dev&show_icons=true&hide_border=true&bg_color=0d1117&title_color=00c896&icon_color=00c896&text_color=c9d1d9&ring_color=00c896" alt="GitHub Stats" />
   </picture>
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-streak-stats.herokuapp.com/?user=ayman-26-dev&hide_border=true&background=0d1117&ring=00c896&fire=00ff9d&currStreakLabel=00c896&sideLabels=c9d1d9&currStreakNum=ffffff&sideNums=ffffff&dates=555555" />
-    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-streak-stats.herokuapp.com/?user=ayman-26-dev&hide_border=true&ring=00c896&fire=00ff9d&currStreakLabel=00c896" />
-    <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=ayman-26-dev&hide_border=true&background=0d1117&ring=00c896&fire=00ff9d&currStreakLabel=00c896&sideLabels=c9d1d9&currStreakNum=ffffff&sideNums=ffffff&dates=555555" alt="GitHub Streak" />
-  </picture>
+ 
 </p>
 
 <p align="center">
